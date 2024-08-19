@@ -20,7 +20,3 @@ Fácil até aqui, né? Bora se desafiar? 👀 🧑‍🚀
 
 Lembre-se de sempre mostrar na tela o resultado de cada uma dessas operações!
 
-# 📅 Entrega
-Esse desafio deve ser entregue a partir da plataforma da Rocketseat. 
-Você pode nos enviar o link do CodePen ou GitHub com o seu código.  💜
-
